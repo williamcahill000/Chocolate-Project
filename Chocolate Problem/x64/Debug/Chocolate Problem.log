@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(8,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(22,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(27,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(53,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Chocolate Problem.vcxproj -> C:\Users\willi\source\repos\Chocolate Problem\x64\Debug\Chocolate Problem.exe
