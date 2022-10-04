@@ -1,6 +1,13 @@
-﻿  Source.cpp
-C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(8,47): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(22,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(27,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\willi\source\repos\Chocolate Problem\Chocolate Problem\Source.cpp(53,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Chocolate Problem.vcxproj -> C:\Users\willi\source\repos\Chocolate Problem\x64\Debug\Chocolate Problem.exe
+﻿  Function.cpp
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(6,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(19,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(24,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(45,73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(59,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(68,72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(86,71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(106,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(109,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(112,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\Chocolate Problem\Function.cpp(115,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Chocolate Problem.vcxproj -> C:\Users\willi\Documents\Chocolate Problem\Chocolate-Project\x64\Debug\Chocolate Problem.exe
